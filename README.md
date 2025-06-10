@@ -1,6 +1,6 @@
 # Medical_Diagnosis |  A Machine Learning Based Web Application
 
-![590-5901121_lovely-professional-university-logo-hd-png-download](https://images.app.goo.gl/z7iQHfSSLW9CYibU6)
+![590-5901121_lovely-professional-university-logo-hd-png-download](https://user-images.githubusercontent.com/62024355/120755302-6ee99700-c52b-11eb-95b8-075edac041ed.png)
 
 
 __Capstone-2: LPU | CAP347 CARGC0019__
@@ -168,16 +168,16 @@ __Links for Python Notebooks used for model creation__
 
 
 
-[Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) <br> [Surbhi (Exploratory Data cleaning, Data gathering)](https://github.com/Surbhisingh014) 
-<br>[Navdeep Nijjar (Quality assurance, content writter)](https://karanmehra7107.github.io/My-Portfolio/index.html)
+[Vansh Chaudhary (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) <br> [Diksha Jain (Exploratory Data cleaning, Data gathering)](https://github.com/Surbhisingh014) 
+<br>
 
 
-__Special thanks to:__ Dr. Amar Singh (Assoicate professr) AI in data science & Machine learning.
+__Special thanks to:__ Dr.Shrikant Tiwari (Professr) AI in Medical Diagnosis.
 
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
 
-Copyright 2021 Karan Mehra | Surbhi | Navdeep
+Copyright 2025 Vansh Chaudhary | Diksha Jain
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
