@@ -1,4 +1,4 @@
-# Medical_Diagnosis |  A Machine Learning Based Web Application
+# Medical_Diagnosis |  AI in Medical Diagnosis
 
 ![590-5901121_Galgotias-university-logo-hd-png-download](https://github.com/vanshchaudhari/vanshchaudhari/blob/main/logo.png)
 
@@ -164,7 +164,7 @@ __Links for Python Notebooks used for model creation__
 
 
 ## Team
-![1622949162341](https://user-images.githubusercontent.com/62024355/120911263-703dcf80-c6a3-11eb-874f-93b538270b4e.jpg)
+![1622949162341](https://github.com/vanshchaudhari/vanshchaudhari/blob/main/team.jpg)
 
 
 
