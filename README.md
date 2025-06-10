@@ -3,7 +3,7 @@
 ![590-5901121_lovely-professional-university-logo-hd-png-download](https://user-images.githubusercontent.com/62024355/120755302-6ee99700-c52b-11eb-95b8-075edac041ed.png)
 
 
-__Capstone-2: LPU | CAP347 CARGC0019__
+__Capstone-2: Galgotias University | CAP347 CARGC0019__
 
 
 ![Pyhon 3.4](https://img.shields.io/badge/ide-Jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap-purple.svg)  ![Frontend](https://img.shields.io/badge/Libraries-Streamlit-purple.svg)    ![Bootstrap](https://img.shields.io/badge/BaseEnvironment-AnacondaPrompt-brown.svg)   ![Bootstrap](https://img.shields.io/badge/Deployment-Github-yellow.svg)   ![Bootstrap](https://img.shields.io/badge/Debugging-LocalHost-blue.svg)  
