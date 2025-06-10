@@ -168,7 +168,7 @@ __Links for Python Notebooks used for model creation__
 
 
 
-[Vansh Chaudhary (Data modeling, model integration, Front-end)](http://linkedin.com/in/vansh-chaudhari) <br> [Diksha Jain (Exploratory Data cleaning, Data gathering)]([https://github.com/Surbhisingh014](https://www.linkedin.com/in/diksha-jain-6317651b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[Vansh Chaudhary (Data modeling, model integration, Front-end)](http://linkedin.com/in/vansh-chaudhari) <br> [Diksha Jain (Exploratory Data cleaning, Data gathering)](https://www.linkedin.com/in/dikshajain1306) 
 <br>
 
 
