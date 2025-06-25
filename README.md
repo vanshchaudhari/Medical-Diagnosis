@@ -164,7 +164,7 @@ __Links for Python Notebooks used for model creation__
 
 
 ## Team
-![1622949162341](https://github.com/vanshchaudhari/vanshchaudhari/blob/main/team.jpg)
+![1622949162341](https://github.com/vanshchaudhari/vanshchaudhari/blob/.jpg)
 
 
 
